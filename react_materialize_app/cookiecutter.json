@@ -1,0 +1,6 @@
+{
+    "app_name": "your_app",
+    "long_package_name": "Your App, in a sentence!",
+    "author": "Yo Momma",
+    "mongodburi": "mongodb://localhost"
+}
