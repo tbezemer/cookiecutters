@@ -1,0 +1,1 @@
+# Landing page for {{cookiecutter.long_package_name}}
