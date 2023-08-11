@@ -1,7 +1,0 @@
-site_name: {{cookiecutter.long_package_name}}
-
-theme:
-  name: material
-
-plugins:
-  - mkdocstrings
